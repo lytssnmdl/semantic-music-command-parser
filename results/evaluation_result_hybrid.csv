@@ -1,0 +1,2 @@
+﻿parser,num_samples,slot_accuracy,exact_match_accuracy,json_validity_rate,ambiguous_detection_accuracy
+hybrid,50,0.9775,0.84,1.0,0.88

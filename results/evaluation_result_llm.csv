@@ -1,0 +1,2 @@
+﻿parser,num_samples,slot_accuracy,exact_match_accuracy,json_validity_rate,ambiguous_detection_accuracy
+llm,50,0.805,0.0,1.0,0.34
